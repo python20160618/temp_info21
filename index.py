@@ -4,3 +4,5 @@ def index():
 
 a = 1
 
+def login():
+	print('login info')
